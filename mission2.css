@@ -1,0 +1,57 @@
+body {
+  font-family: Arial;
+  margin: 0;
+  background: grey;
+  text-align: center;
+  background-image: url("https://cdn.prod.website-files.com/655d9d0f63f0529b22c94af6/65cbf0474a42367f8a54dcda_MR_Horizontal_ring_whitetext.svg"); /* Specify the image file path/URL */
+  background-repeat: no-repeat; 
+  background-size: cover; 
+  background-position: center; 
+  background-attachment: fixed; 
+  background-color: #cccccc;
+}
+
+/* Header */
+
+header {
+  background: black;
+  color: white;
+  padding: 30px;
+}
+
+/* Buttons */
+
+.buttons {
+  margin-top: 30px;
+  
+}
+
+button {
+  padding: 12px 20px;
+  margin: 10px;
+  font-size: 16px;
+  border: none;
+  background: skyblue;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: blue;
+  
+}
+
+/* Info section */
+
+.info {
+  max-width: 600px;
+  margin: 30px auto;
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  display: none;
+}
+
+
+
